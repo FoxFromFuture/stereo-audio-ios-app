@@ -1,0 +1,29 @@
+/* 
+  Localizable.strings
+  stereo-audio-ios-app
+
+  Created by FoxFromFuture on 23.03.2023.
+  
+*/
+
+"launchScreenHeadset" = "use your headset";
+"mainMenu" = "Main Menu";
+"startGame" = "start game";
+"shop" = "shop";
+"bestScore" = "Best score";
+"shopUpper" = "Shop";
+"coins" = "Coins";
+"user" = "User";
+"enemy" = "Enemy";
+"set" = "set";
+"buy" = "buy";
+"used" = "used";
+"newGame" = "New Game";
+"onScreen" = "on screen";
+"score" = "score";
+"theEnd" = "The End";
+"tryAgain" = "Try Again";
+"howToPlay" = "How to Play?";
+"camAlert" = "Camera access is denied";
+"cancel" = "Cancel";
+"settings" = "Settings";

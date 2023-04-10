@@ -1,0 +1,29 @@
+/* 
+  Localizable.strings
+  stereo-audio-ios-app
+
+  Created by FoxFromFuture on 23.03.2023.
+  
+*/
+
+"launchScreenHeadset" = "наденьте наушники";
+"mainMenu" = "Главное Меню";
+"startGame" = "начать игру";
+"shop" = "магазин";
+"bestScore" = "Лучший результат";
+"shopUpper" = "Магазин";
+"coins" = "Монеты";
+"user" = "Игрок";
+"enemy" = "Враг";
+"set" = "использовать";
+"buy" = "купить";
+"used" = "используется";
+"newGame" = "Новая Игра";
+"onScreen" = "на экране";
+"score" = "результат";
+"theEnd" = "Вы Погибли";
+"tryAgain" = "Еще Раз";
+"howToPlay" = "Как Играть?";
+"camAlert" = "Доступ к камере запрещен";
+"cancel" = "Отмена";
+"settings" = "Настройки";
